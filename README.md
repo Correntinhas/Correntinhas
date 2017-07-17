@@ -16,4 +16,4 @@
 
 ### Framework JS de desenvolvimento de UI
 
-- API do Facebook na V 2.9 do SDK 5.0 em JS + Angula
+- API do Facebook na V 2.9 do SDK 5.0 em JS + Angular
